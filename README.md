@@ -1,7 +1,7 @@
 # 안녕하세요!
-## 백엔드 개발자 이병진 입니다
+## 백엔드 개발자 이병진 입니다  
 
-## 💻 Tech Stack
+## 💻 Tech Stack  
 
 ### Languages & Frameworks
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -14,12 +14,12 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 
 
 
 ### 📈 GitHub Stats
-![Zeri-Time's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zeri-Time&show_icons=true&theme=tokyonight)
+![Zeri-Time's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zeri-Time&show_icons=true&theme=tokyonight)  
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeri-Time&layout=compact&theme=radical)
